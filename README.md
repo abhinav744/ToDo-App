@@ -1,10 +1,10 @@
-✅ ToDo App
+# ✅ ToDo App
 
 A simple and efficient ToDo App built using modern web technologies to help users manage their daily tasks.
 
 
 
-🚀 Features
+## 🚀 Features
 
 📝 Add, edit, and delete tasks
 
@@ -16,7 +16,7 @@ A simple and efficient ToDo App built using modern web technologies to help user
 
 💾 Local storage or backend integration
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Frontend: React.js / HTML, CSS, JavaScript
 
@@ -26,7 +26,7 @@ Database (if applicable): MongoDB, Firebase, or Local Storage
 
 State Management: useState, useEffect, Context API (if used)
 
-📁 Project Structure
+## 📁 Project Structure
 
 
 
@@ -48,9 +48,9 @@ State Management: useState, useEffect, Context API (if used)
 
 │── README.md          # Documentation
 
-🚀 Installation & Setup
+## 🚀 Installation & Setup
 
-Clone the repository
+### Clone the repository
 
 
 
@@ -60,14 +60,14 @@ git clone https://github.com/abhinav744/ToDo-App.git
 
 cd ToDo-App
 
-Install dependencies
+### Install dependencies
 
 
 
 
 npm install
 
-Start the development server
+### Start the development server
 
 
 
@@ -79,7 +79,7 @@ The app should now be running at http://localhost:3000/.
 
 
 
-🔧 How to Use
+## 🔧 How to Use
 
 Add Task: Enter a task and click the "Add" button.
 
@@ -89,7 +89,7 @@ Edit Task: Click the edit button to modify a task.
 
 Delete Task: Click the delete button to remove a task.
 
-📌 Contributing
+## 📌 Contributing
 
 Contributions are welcome! Feel free to:
 
